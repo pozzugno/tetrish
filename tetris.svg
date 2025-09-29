@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="tetris.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="0.552447"
+     inkscape:cx="112.22796"
+     inkscape:cy="666.12725"
+     inkscape:window-width="1838"
+     inkscape:window-height="1057"
+     inkscape:window-x="74"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       units="cm"
+       spacingx="10"
+       spacingy="10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238"
+       width="10"
+       height="10"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4"
+       width="10"
+       height="10"
+       x="10"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9"
+       width="10"
+       height="10"
+       x="20"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-8"
+       width="10"
+       height="10"
+       x="30"
+       y="0" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2"
+       width="10"
+       height="10"
+       x="30"
+       y="10" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3"
+       width="10"
+       height="10"
+       x="20"
+       y="10" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95"
+       width="10"
+       height="10"
+       x="10"
+       y="10" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1"
+       width="10"
+       height="10"
+       x="0"
+       y="10" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957"
+       width="10"
+       height="10"
+       x="0"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-0"
+       width="10"
+       height="10"
+       x="10"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12"
+       width="10"
+       height="10"
+       x="20"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-04"
+       width="10"
+       height="10"
+       x="30"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-48"
+       width="10"
+       height="10"
+       x="0"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-7"
+       width="10"
+       height="10"
+       x="10"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-28"
+       width="10"
+       height="10"
+       x="20"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-06"
+       width="10"
+       height="10"
+       x="30"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-5"
+       width="10"
+       height="10"
+       x="50"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-3"
+       width="10"
+       height="10"
+       x="70"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-8-4"
+       width="10"
+       height="10"
+       x="80"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-8-4-3"
+       width="10"
+       height="10"
+       x="70"
+       y="10" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-8-4-1"
+       width="10"
+       height="10"
+       x="80"
+       y="10" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-8-4-5"
+       width="10"
+       height="10"
+       x="50"
+       y="10" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-3"
+       width="10"
+       height="10"
+       x="60"
+       y="0" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-4"
+       width="10"
+       height="10"
+       x="60"
+       y="30" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-8"
+       width="10"
+       height="10"
+       x="60"
+       y="10" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-0"
+       width="10"
+       height="10"
+       x="60"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-2"
+       width="10"
+       height="10"
+       x="50"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-8"
+       width="10"
+       height="10"
+       x="70"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-04-1"
+       width="10"
+       height="10"
+       x="80"
+       y="20" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-48-9"
+       width="10"
+       height="10"
+       x="50"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-28-9"
+       width="10"
+       height="10"
+       x="70"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-06-8"
+       width="10"
+       height="10"
+       x="80"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6"
+       width="10"
+       height="10"
+       x="0"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2"
+       width="10"
+       height="10"
+       x="10"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32"
+       width="10"
+       height="10"
+       x="20"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8"
+       width="10"
+       height="10"
+       x="10.000001"
+       y="80" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5"
+       width="10"
+       height="10"
+       x="20"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4"
+       width="10"
+       height="10"
+       x="10"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1"
+       width="10"
+       height="10"
+       x="0"
+       y="70" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0"
+       width="10"
+       height="10"
+       x="0"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2"
+       width="10"
+       height="10"
+       x="20"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4"
+       width="10"
+       height="10"
+       x="50"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7"
+       width="10"
+       height="10"
+       x="50"
+       y="70" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6"
+       width="10"
+       height="10"
+       x="70"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9"
+       width="10"
+       height="10"
+       x="60"
+       y="80" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3"
+       width="10"
+       height="10"
+       x="70"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5"
+       width="10"
+       height="10"
+       x="60"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1"
+       width="10"
+       height="10"
+       x="60"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4"
+       width="10"
+       height="10"
+       x="50"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9"
+       width="10"
+       height="10"
+       x="70"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-9"
+       width="10"
+       height="10"
+       x="100"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-9"
+       width="10"
+       height="10"
+       x="110"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-5"
+       width="10"
+       height="10"
+       x="120"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-6"
+       width="10"
+       height="10"
+       x="110"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-3"
+       width="10"
+       height="10"
+       x="120"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-7"
+       width="10"
+       height="10"
+       x="110"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-3"
+       width="10"
+       height="10"
+       x="100"
+       y="70" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-5"
+       width="10"
+       height="10"
+       x="100"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-0"
+       width="10"
+       height="10"
+       x="120"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-3"
+       width="10"
+       height="10"
+       x="150"
+       y="60" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-6"
+       width="10"
+       height="10"
+       x="170"
+       y="70" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-51"
+       width="10"
+       height="10"
+       x="170"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-7"
+       width="10"
+       height="10"
+       x="160"
+       y="80" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-4"
+       width="10"
+       height="10"
+       x="160"
+       y="60" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-4"
+       width="10"
+       height="10"
+       x="160"
+       y="70" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-0"
+       width="10"
+       height="10"
+       x="150"
+       y="70" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-0"
+       width="10"
+       height="10"
+       x="150"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-2"
+       width="10"
+       height="10"
+       x="170"
+       y="80" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5"
+       width="10"
+       height="10"
+       x="-1.061773e-12"
+       y="170" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6"
+       width="10"
+       height="10"
+       x="10"
+       y="170" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8"
+       width="10"
+       height="10"
+       x="20"
+       y="170" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12"
+       width="10"
+       height="10"
+       x="10"
+       y="160" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0"
+       width="10"
+       height="10"
+       x="20"
+       y="150" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1"
+       width="10"
+       height="10"
+       x="-9.3821245e-14"
+       y="160" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3"
+       width="10"
+       height="10"
+       x="10"
+       y="150" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0"
+       width="10"
+       height="10"
+       x="-7.0666438e-13"
+       y="150" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4"
+       width="10"
+       height="10"
+       x="20"
+       y="160" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4"
+       width="10"
+       height="10"
+       x="50"
+       y="150" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5"
+       width="10"
+       height="10"
+       x="50"
+       y="160" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3"
+       width="10"
+       height="10"
+       x="70"
+       y="150" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3"
+       width="10"
+       height="10"
+       x="70"
+       y="170" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2"
+       width="10"
+       height="10"
+       x="70"
+       y="160" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47"
+       width="10"
+       height="10"
+       x="60"
+       y="160" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9"
+       width="10"
+       height="10"
+       x="60"
+       y="150" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1"
+       width="10"
+       height="10"
+       x="50"
+       y="170" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8"
+       width="10"
+       height="10"
+       x="60"
+       y="170" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5-6"
+       width="10"
+       height="10"
+       x="-3.5527137e-13"
+       y="270" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6-0"
+       width="10"
+       height="10"
+       x="10"
+       y="270" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8-4"
+       width="10"
+       height="10"
+       x="20"
+       y="270" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12-3"
+       width="10"
+       height="10"
+       x="10"
+       y="260" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0-3"
+       width="10"
+       height="10"
+       x="-3.5527137e-15"
+       y="250" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1-1"
+       width="10"
+       height="10"
+       x="20"
+       y="260" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3-5"
+       width="10"
+       height="10"
+       x="10"
+       y="250" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0-4"
+       width="10"
+       height="10"
+       x="-3.499423e-13"
+       y="260" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4-74"
+       width="10"
+       height="10"
+       x="20"
+       y="250" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4-9"
+       width="10"
+       height="10"
+       x="70"
+       y="250" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5-79"
+       width="10"
+       height="10"
+       x="70"
+       y="260" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3-8"
+       width="10"
+       height="10"
+       x="50"
+       y="250" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3-4"
+       width="10"
+       height="10"
+       x="50"
+       y="270" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2-6"
+       width="10"
+       height="10"
+       x="60"
+       y="260" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47-0"
+       width="10"
+       height="10"
+       x="50"
+       y="260" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9-74"
+       width="10"
+       height="10"
+       x="60"
+       y="250" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1-6"
+       width="10"
+       height="10"
+       x="70"
+       y="270" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8-3"
+       width="10"
+       height="10"
+       x="60"
+       y="270" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5-8"
+       width="10"
+       height="10"
+       x="10"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6-1"
+       width="10"
+       height="10"
+       x="10"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8-8"
+       width="10"
+       height="10"
+       x="20"
+       y="220" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12-1"
+       width="10"
+       height="10"
+       x="10"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0-8"
+       width="10"
+       height="10"
+       x="20"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1-4"
+       width="10"
+       height="10"
+       x="0"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3-4"
+       width="10"
+       height="10"
+       x="1.5720758e-12"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0-29"
+       width="10"
+       height="10"
+       x="0"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4-7"
+       width="10"
+       height="10"
+       x="20"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4-07"
+       width="10"
+       height="10"
+       x="50"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5-7"
+       width="10"
+       height="10"
+       x="50"
+       y="210" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3-77"
+       width="10"
+       height="10"
+       x="70"
+       y="200" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3-1"
+       width="10"
+       height="10"
+       x="70"
+       y="220" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2-5"
+       width="10"
+       height="10"
+       x="60"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47-6"
+       width="10"
+       height="10"
+       x="60"
+       y="220" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9-1"
+       width="10"
+       height="10"
+       x="60"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1-9"
+       width="10"
+       height="10"
+       x="50"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8-6"
+       width="10"
+       height="10"
+       x="70"
+       y="210" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5-5-8"
+       width="10"
+       height="10"
+       x="100"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6-8-6"
+       width="10"
+       height="10"
+       x="110"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8-6-9"
+       width="10"
+       height="10"
+       x="120"
+       y="220" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12-0-2"
+       width="10"
+       height="10"
+       x="110"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0-4-9"
+       width="10"
+       height="10"
+       x="120"
+       y="200" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1-9-3"
+       width="10"
+       height="10"
+       x="100"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3-9-6"
+       width="10"
+       height="10"
+       x="120"
+       y="210" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0-2-2"
+       width="10"
+       height="10"
+       x="100"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4-1-4"
+       width="10"
+       height="10"
+       x="110"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4-0-3"
+       width="10"
+       height="10"
+       x="170"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5-3-4"
+       width="10"
+       height="10"
+       x="150"
+       y="210" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3-7-4"
+       width="10"
+       height="10"
+       x="170"
+       y="200" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3-2-2"
+       width="10"
+       height="10"
+       x="150"
+       y="200" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2-3-5"
+       width="10"
+       height="10"
+       x="160"
+       y="220" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47-2-9"
+       width="10"
+       height="10"
+       x="160"
+       y="210" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9-7-0"
+       width="10"
+       height="10"
+       x="160"
+       y="200" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1-7-6"
+       width="10"
+       height="10"
+       x="150"
+       y="220" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8-4-6"
+       width="10"
+       height="10"
+       x="170"
+       y="210" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5-8-7"
+       width="10"
+       height="10"
+       x="110"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6-1-3"
+       width="10"
+       height="10"
+       x="110"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8-8-1"
+       width="10"
+       height="10"
+       x="120"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12-1-2"
+       width="10"
+       height="10"
+       x="110"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0-8-5"
+       width="10"
+       height="10"
+       x="120"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1-4-1"
+       width="10"
+       height="10"
+       x="100"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3-4-8"
+       width="10"
+       height="10"
+       x="100"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0-29-0"
+       width="10"
+       height="10"
+       x="120"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4-7-6"
+       width="10"
+       height="10"
+       x="100"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4-07-4"
+       width="10"
+       height="10"
+       x="150"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5-7-3"
+       width="10"
+       height="10"
+       x="150"
+       y="310" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3-77-1"
+       width="10"
+       height="10"
+       x="170"
+       y="300" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3-1-4"
+       width="10"
+       height="10"
+       x="150"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2-5-2"
+       width="10"
+       height="10"
+       x="160"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47-6-5"
+       width="10"
+       height="10"
+       x="160"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9-1-1"
+       width="10"
+       height="10"
+       x="160"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1-9-3"
+       width="10"
+       height="10"
+       x="170"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8-6-1"
+       width="10"
+       height="10"
+       x="170"
+       y="310" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-5-5-8-7"
+       width="10"
+       height="10"
+       x="20"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-6-8-6-2"
+       width="10"
+       height="10"
+       x="10"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-8-6-9-0"
+       width="10"
+       height="10"
+       x="-3.5527137e-13"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-12-0-2-5"
+       width="10"
+       height="10"
+       x="10"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-0-4-9-3"
+       width="10"
+       height="10"
+       x="20"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-1-9-3-5"
+       width="10"
+       height="10"
+       x="-3.5527137e-13"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-3-9-6-6"
+       width="10"
+       height="10"
+       x="20"
+       y="310" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-0-2-2-7"
+       width="10"
+       height="10"
+       x="-3.5527137e-13"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-4-1-4-5"
+       width="10"
+       height="10"
+       x="10"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-6-4-4-0-3-1"
+       width="10"
+       height="10"
+       x="70"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-4-2-7-5-3-4-7"
+       width="10"
+       height="10"
+       x="50"
+       y="310" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-9-32-6-3-7-4-1"
+       width="10"
+       height="10"
+       x="50"
+       y="300" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-9-3-2-2-9"
+       width="10"
+       height="10"
+       x="70"
+       y="300" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-3-2-3-5-7"
+       width="10"
+       height="10"
+       x="60"
+       y="320" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-5-47-2-9-5"
+       width="10"
+       height="10"
+       x="60"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-1-9-7-0-0"
+       width="10"
+       height="10"
+       x="60"
+       y="300" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-957-0-4-1-7-6-2"
+       width="10"
+       height="10"
+       x="50"
+       y="320" />
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-12-2-9-8-4-6-2"
+       width="10"
+       height="10"
+       x="70"
+       y="310" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-2-2-8-1"
+       width="10"
+       height="10"
+       x="10.000001"
+       y="110" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-3-5-5"
+       width="10"
+       height="10"
+       x="-2.6645353e-13"
+       y="110" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-95-4-4"
+       width="10"
+       height="10"
+       x="10"
+       y="120" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect238-1-1-2"
+       width="10"
+       height="10"
+       x="3.4816594e-13"
+       y="120" />
+  </g>
+</svg>
